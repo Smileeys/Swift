@@ -22,7 +22,7 @@ Using PageUp and PageDown keys all the slides can be traversed.
 - This Report enables to pick the right parameters for the best Diamond selection.
 
 
-## Slide with Complete Reporting Appliaction
+## Slide with Complete Reporting Application
 
 Click the Below Link for the Application.
 
